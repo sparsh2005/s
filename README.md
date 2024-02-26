@@ -1,3 +1,8 @@
+![Uploading image.png…]()
+
+![Uploading image.png…]()
+
+
 explanation:
 the model is trained on a dataset which has a column of messages and another column which says whether each message is spam or ham(not spam)
 the data is then processed and converted into a machine readable language.
